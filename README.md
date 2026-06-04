@@ -2,7 +2,7 @@
 
 ![Intro GIF](banner.gif)
 
-Welcome to my GitHub page. I’m Daniel Selitzer, a soon to be Computer Science graduate. I enjoy learning new technologies, improving my software development skills, and turning project ideas into polished applications.
+Welcome to my GitHub page. I’m Daniel Selitzer, a Computer Science graduate. I enjoy learning new technologies, improving my software development skills, and turning project ideas into polished applications.
 
 </div>
 
