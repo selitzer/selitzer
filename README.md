@@ -107,3 +107,4 @@ A polished journaling web app built with **React, TypeScript, Vite, and Supabase
 
 - Email: [selitzer4@gmail.com](mailto:selitzer4@gmail.com)
 - GitHub: [@selitzer](https://github.com/selitzer)
+- Linkedin: [Daniel Selitzer](https://www.linkedin.com/in/daniel-selitzer-84a296369/)
